@@ -5,4 +5,4 @@
 2. If you use RStudio, you can use the R project file "R_functions_mapping.Rproj".
 3. The main code is "R_functions_mapping.r", which includes the R functions for mapping.
 4. In this R code, you can implement 4 mapping algorithms: direct and indirect mapping algorithms based on gradient boosted trees, direct mapping algorithms based on two-part beta regression, and indirect algorithms based on ordinal logistic regression.
-5. Sample data are also provided, and sample EORTC QLQ-C30 data are mapped onto the EQ-5D-5L index.
+5. Sample data are also provided, and sample EORTC QLQ-C30 data are mapped onto the EQ-5D-5L index in the provided R code.
